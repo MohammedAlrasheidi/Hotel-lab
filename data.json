@@ -1,0 +1,20 @@
+{
+  "checkboxOptions": [
+    { "value": "mountain-biking", "label": "Mountain Biking" },
+    { "value": "kayaking", "label": "Kayaking" },
+    { "value": "fishing", "label": "Fishing" },
+    { "value": "hunting", "label": "Hunting" },
+    { "value": "hiking", "label": "Hiking" }
+  ],
+  "radioOptions": [
+    { "value": "less-than-five", "label": "Less than 5 hours" },
+    { "value": "five-to-fifteen", "label": "5 to 15 hours" },
+    { "value": "more-than-fifteen", "label": "More than 15 hours" }
+  ],
+  "selectOptions": [
+    { "value": "Grand Teton", "label": "Grand Teton" },
+    { "value": "Yellowstone", "label": "Yellowstone" },
+    { "value": "Great Smoky Mountains", "label": "Great Smoky Mountains" },
+    { "value": "Other", "label": "Other" }
+  ]
+}
